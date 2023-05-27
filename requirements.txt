@@ -5,3 +5,4 @@ ipywidgets
 seaborn
 scikit-learn
 voila
+IPython
